@@ -45,6 +45,15 @@
 >   - chatGPT로 최초 소프트웨어를 생성
 >   - 팀원들이 더욱 개선해 나가는 협업 과정(커밋에 여러 번 발생)
 
+
+## Git 설정 파일 요약 표 (Windows 기준)
+| 구분         | 적용 범위          | 기본 경로                                         | 명령어 옵션         | 우선순위  |
+| ---------- | -------------- | --------------------------------------------- | -------------- | ----- |
+| **System** | 모든 사용자, 모든 저장소 | `C:\ProgramData\Git\config` (또는 Git 설치 폴더 내부) | `--system`     | 낮음    |
+| **Global** | 현재 사용자 전체      | `C:\Users\<사용자명>\.gitconfig`                  | `--global`     | 중간    |
+| **Local**  | 특정 저장소         | `<repo>\.git\config`                          | `--local` (기본) | 가장 높음 |
+ 
+
 ## 깃과 깃허브를 사랑하기 위한 유튜브 영상
 - [드림코딩 깃과 깃허브 기초 6분](https://www.youtube.com/watch?v=lPrxhA4PLoA)
 - [드림코딩 깃과 깃허브 이해 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s) 
