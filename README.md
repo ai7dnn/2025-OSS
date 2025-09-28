@@ -52,8 +52,25 @@
 | **System** | 모든 사용자, 모든 저장소 | `C:\Program Fiels\Git\etc\gitconfig` (또는 Git 설치 폴더 내부) | `--system`     | 낮음    |
 | **Global** | 현재 사용자 전체      | `C:\Users\<사용자명>\.gitconfig`                  | `--global`     | 중간    |
 | **Local**  | 특정 저장소         | `<repo>\.git\config`                          | `--local` (기본) | 가장 높음 |
- 
 
+
+## 설정 파일 열기/편집: --system 모드인 경우, 관리자 모드로 git bash를 열기
+```
+$ git config --system --edit
+$ git config --global --edit
+$ git config --local --edit
+```
+
+## 주요 설정 명령어
+```
+$ git config --global user.name ai7dnn
+$ git config --global user.email ai7dnn@gmail.com
+$ git config --global core.autocrlf true
+$ git config --global core.safecrlf false
+$ git config --global core.editor 'code --wait'
+$ git config --global init.defaultBranch main
+```
+ 
 ## 깃과 깃허브를 사랑하기 위한 유튜브 영상
 - [드림코딩 깃과 깃허브 기초 6분](https://www.youtube.com/watch?v=lPrxhA4PLoA)
 - [드림코딩 깃과 깃허브 이해 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s) 
