@@ -49,7 +49,7 @@
 ## Git 설정 파일 요약 표 (Windows 기준)
 | 구분         | 적용 범위          | 기본 경로                                         | 명령어 옵션         | 우선순위  |
 | ---------- | -------------- | --------------------------------------------- | -------------- | ----- |
-| **System** | 모든 사용자, 모든 저장소 | `C:\ProgramData\Git\config` (또는 Git 설치 폴더 내부) | `--system`     | 낮음    |
+| **System** | 모든 사용자, 모든 저장소 | `C:\Program Fiels\Git\etc\gitconfig` (또는 Git 설치 폴더 내부) | `--system`     | 낮음    |
 | **Global** | 현재 사용자 전체      | `C:\Users\<사용자명>\.gitconfig`                  | `--global`     | 중간    |
 | **Local**  | 특정 저장소         | `<repo>\.git\config`                          | `--local` (기본) | 가장 높음 |
  
