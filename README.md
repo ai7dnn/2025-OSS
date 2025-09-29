@@ -21,7 +21,7 @@
   - 자기주도학습에 의해 하나의 저장소 생성 후 구축
 - 개인과제 주소 업로드
   - [B반 오전](https://docs.google.com/spreadsheets/d/1Djn_eJtftQ2JG3JWNLm77fGBk3h7TcGUluKW_i1Mdvg/edit?usp=sharing)
-  - [A반 오후]()
+  - [A반 오후](https://docs.google.com/spreadsheets/d/1jspPCAV-wAbZMOj09LpKvqYix6TsVyFgk6LF_zR9rpY/edit?usp=sharing)
 - 과제마감일
   - 2025.12.10(일)
 
