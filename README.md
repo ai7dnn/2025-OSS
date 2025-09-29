@@ -5,6 +5,10 @@
 - [걍교수의 AIT code](https://www.youtube.com/@aitcode)
 - [오픈소스소프트웨어](https://www.youtube.com/watch?v=m0nk6c8bjYo&list=PLuiwxLXzcfdVnI_flMq1CVFyHPG6f8J42)
 
+## 수업 점검
+- [B반 오전](https://docs.google.com/spreadsheets/d/1Djn_eJtftQ2JG3JWNLm77fGBk3h7TcGUluKW_i1Mdvg/edit?usp=sharing)
+- [A반 오후](https://docs.google.com/spreadsheets/d/1jspPCAV-wAbZMOj09LpKvqYix6TsVyFgk6LF_zR9rpY/edit?usp=sharing)
+
 ## 중간고사와 기말고사
 - 중간고사 범위
   - 1주와 5주 대면수업 내용
@@ -20,8 +24,6 @@
 - OSS 교과목 내용(Git & GitHub)의 정리
   - 자기주도학습에 의해 하나의 저장소 생성 후 구축
 - 개인과제 주소 업로드
-  - [B반 오전](https://docs.google.com/spreadsheets/d/1Djn_eJtftQ2JG3JWNLm77fGBk3h7TcGUluKW_i1Mdvg/edit?usp=sharing)
-  - [A반 오후](https://docs.google.com/spreadsheets/d/1jspPCAV-wAbZMOj09LpKvqYix6TsVyFgk6LF_zR9rpY/edit?usp=sharing)
 - 과제마감일
   - 2025.12.10(일)
 
