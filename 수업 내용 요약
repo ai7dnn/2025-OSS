@@ -1,0 +1,129 @@
+📚 2025-OSS 전체 요약본
+1. ⭐ 과목 목표 (전체 수업의 방향)
+
+이 교과목은 단순 이론 수업이 아니라 오픈소스 개발 문화를 실제로 경험하도록 설계된 수업이다.
+
+핵심 목표 3가지:
+
+Git/GitHub 기본기 숙달
+
+개인 → 팀 협업까지 확장되는 실제 개발 워크플로우 체험
+
+문서화 능력, 이슈 관리, Pull Request 기반 협업 능력 강화
+
+즉, 오픈소스 개발자처럼 일하는 법을 배우는 실습 중심 과목.
+
+2. 📅 주차별 강의 핵심 개념 요약
+📌 1주 — 오픈소스소프트웨어(OSS)와 수업 소개
+
+오픈소스의 의미
+
+OSS 라이선스 개념 (MIT, GPL 등)
+
+Git/GitHub 사용 이유
+
+수업 운영 방식, 과제 구조 안내
+
+📌 2주 — 수업 준비
+
+GitHub 계정 생성
+
+Visual Studio Code 또는 원하는 개발 환경 설치
+
+Git 기본 설정 (user.name / user.email)
+
+온라인 수업 플랫폼 사용 방법 안내
+
+📌 3주 — Git 설치 & 기초
+
+Git 설치 후 경로 설정
+
+처음 하는 Git 설정:
+
+git config --global user.name ""
+git config --global user.email ""
+
+
+기본 명령어 소개:
+
+git init
+
+git add
+
+git commit
+
+git status
+
+git log
+
+📌 4주 — GitHub 원격 저장소 사용
+
+GitHub에 repository 만들기
+
+로컬과 원격 연결:
+
+git remote add origin <URL>
+git push -u origin main
+
+
+GitHub 기본 UI 설명
+(README, Code, Issues, Pull Requests, Settings 등)
+
+📌 5주 — Pull Request(PR) 기초
+
+PR이 필요한 이유 → 협업의 핵심
+
+PR 생성 → 리뷰 → 수정 → Merge
+
+Fork & Branch 전략
+
+“협업할 때 conflict가 왜 생기는가?” 설명
+
+간단한 PR 실습
+
+📌 6~10주 — Git 실전 기능
+
+주차별로 조금씩 추가되는 내용들:
+
+Git 브랜치
+git branch
+git switch -c feature/test
+git merge
+
+충돌(conflict) 해결법
+
+왜 충돌이 발생하는가?
+
+충돌 발생 시 VS Code로 해결하는 법
+
+GitHub Issues
+
+버그/작업 항목 등록
+
+Label, Assignee, Milestones 사용
+
+Issue → PR → Merge 흐름
+
+GitHub Projects (간단한 Kanban 사용)
+
+백로그, 진행 중, 완료 관리
+
+📌 11~13주 — Markdown 문서화
+
+README 작성 규칙
+
+마크다운 문법:
+
+제목, 글머리, 표, 링크
+
+코드 블록
+
+OSS 문화에서 문서화의 중요성
+
+📌 14주 — 중간 점검 / 대면수업
+
+중간고사 구성
+
+1~8주 핵심 개념 평가
+
+Git 기본 명령어와 PR 개념, GitHub 구조 이해 여부 확인
